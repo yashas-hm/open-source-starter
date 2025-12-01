@@ -31,7 +31,7 @@ and inclusive environment.
 
 ## 📝 License
 
-Henchman CLI is licensed under the [MIT License](LICENSE).
+\<Project\> is licensed under the [\<License Name\> License](LICENSE).
 
 ---
 
