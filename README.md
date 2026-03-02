@@ -32,7 +32,3 @@ and inclusive environment.
 ## 📝 License
 
 \<Project\> is licensed under the [\<License Name\> License](LICENSE).
-
----
-
-Thank you for using Henchman! 🎉 Happy coding!
